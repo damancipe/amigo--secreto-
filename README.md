@@ -15,7 +15,7 @@ Este proyecto es una aplicación web interactiva que permite registrar participa
 
 1. Descarga o clona el repositorio:
 
-git clone https://github.com/damancipe/amigo-secreto-.git
+git clone 
 📁 amigo-secreto-
 ├── activos/
 │   └── (imágenes y recursos)
